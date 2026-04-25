@@ -1,2 +1,5 @@
 # Shopping Site
 This site is fake, nothing can be bought for real. I am creating this mock shopping site in order to improve my Typescript, frontend design, and general backend skills. All in all, this website will mock a shopping site that has features such as a cart system. Perhaps a login feature in the future? I am using react to make this faster and to improve my react skills. This current page should be the [source code](https://github.com/Johnny-Rport/shopping), but the build is ran on a github page here: [link](https://johnny-rport.github.io/shopping/)
+
+# Archiving - April 2026
+* This was just a playground to get a feel for web dev and typescript.
